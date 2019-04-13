@@ -1,0 +1,47 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Gulden (digital currency)|timestamp=20190114175301|year=2019|month=January|day=14|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Gulden (digital currency)|date=14 January 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Infobox currency
+| image_1 = File:Gblue256x256.png
+| image_width_1 = 100
+| image_title_1 = Official Gulden digital currency logo
+| plural = N/A (Gulden is a singulare tantum)
+| symbol = NLG
+| date_of_introduction = {{Start date and age|2014|04|04}}
+| using_countries = International
+| issuing_authority_website = https://gulden.com/
+| inflation_rate = Limited release, maximum number of 1,680,000,000 Gulden
+}}
+
+'''Gulden''' (trading symbol - NLG) is a second generation peer-to-peer [[cryptocurrency]] which was created to provide a secure, simple and fast method of performing financial transactions between private individuals, customers & service providers and also corporate entities.
+Like many recent (post 2012) cryptocurrencies, the primary design criteria were to improve security and usability of the currency and its underlying transaction authorisation technology (when compared to the original cryptocurrency - [[Bitcoin]]).  The purpose of these changes were to simplify use and increase its adoption as a convenient, cheap and safe form of payment.
+
+== History ==
+The original initiative for this currency came from Rijk Plasman with the first working implementation released on the 4 April 2014.
+Initially called the "Guldencoin", this was subsequently abbreviated in October 2015 to "Gulden".  The name [[Gold coin|Gulden]] comes from the German and Dutch term for “gold coin” and is the Dutch name of the [[Dutch guilder]], the pre-euro currency of the Netherlands.{{cn|date=January 2019}}
+
+== Current usage ==
+The Gulden currency can be [[Mining pool|mined]] which is a means of creating new Gulden by using software, quite often on specially designed computers. It can also be traded<ref>{{cite web |url=https://www.parool.nl/amsterdam/internet-koopt-zich-wild-aan-de-gulden-van-deze-amsterdammer~a4397778/ |title=Internet buys wildly at the Gulden of this Amsterdammer | language=dutch | publisher=www.parool.nl}}</ref> on a [[financial market]] or exchange in the same way as common commodities and traditional currencies such as Oil and the USD ($).
+
+Due to the intrinsic link with the Dutch people and culture, adoption of the Gulden as a form of payment for goods and services<ref>{{cite web |url=https://cointelegraph.com/news/all-that-glitters-is-gulden-dutch-cryptocurrency-boasts-impressive-adoption |title=All That Glitters Is Gulden: Dutch Cryptocurrency Boasts Impressive Adoption |publisher=cointelegraph.com}}</ref><ref>{{cite web |url=https://www.emerce.nl/wire/betalen-digitale-gulden-rukt-nederland |title=Paying with digital guilders is gaining ground in the Netherlands |publisher=www.emerce.nl | language=dutch}}</ref> is most established in the Netherlands.
+
+==Crowdfunding==
+
+The Gulden community partnered with organisers of the Capital Cup in 2018. After being approached by the organisers a crowdfunding campaign raised 80,000 NLG (about €7500) to sponsor the event with the prize money to be paid in Gulden payments accepted at the event.<ref>{{cite news|title=Collaboration FootGolf and digital payment means Gulden; partnership of the future?|url=http://www.sportnext.nl/berichten/samenwerking_footgolf_en_gulden_partnership_van_de_toekomst|date=20 May 2018}}</ref>
+
+== See also ==
+* [[Private currency]]
+* [[List of scrypt crypto currencies]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{Official website|https://gulden.com/}}
+* [https://github.com/gulden/gulden-official/ Official github for project]
+
+{{Cryptocurrencies|state=expanded}}
+
+[[Category:Alternative currencies]]
+[[Category:Cryptocurrencies]]
