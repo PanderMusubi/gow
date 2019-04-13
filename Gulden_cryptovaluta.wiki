@@ -1,70 +1,79 @@
-Gulden Wikipedia
-
 {{Infobox munteenheid
 | naam = Gulden
 | land = Nederland/Internationaal
 | afkorting = NLG
-| afbeelding = Wikilogo 720.png
+| afbeelding = Gulden_logo.svg
 | onderschrift = Gulden logo
 }}
 
-==Algemene beschrijving==
-Gulden is een vorm van digitaal geld op basis van [[blockchain]] techniek, vergelijkbaar met [[Bitcoin]]. Gulden is net als Bitcoin een [[cryptocurrency]] maar met andere eigenschappen. Gulden is volledig [[open source]]. Guldens kunnen worden opgeslagen op een PC, laptop of telefoon. Vanuit de digitale portemonnee is het mogelijk om guldens wereldwijd te versturen/ontvangen naar en van iedereen met een Gulden adres tegen verwaarloosbare kosten. Hierdoor is het een zeer snel betaalsysteem.
+== Algemene beschrijving ==
 
-==Kenmerken==
-* Startdatum: 4 april 2014 (als Guldencoin, rebranding naar Gulden in oktober 2015) 
-* Afkorting: NLG  
-* Kleinste denominatie: deelbaar tot 8 cijfers achter de komma 
-* Mining algoritme: scrypt PoW DELTA 
-* Benodigd aantal transactie bevestigingen: 6 
-* Totaal aantal uit te geven NLG: 1680 Miljoen 
-* Premine gereserveerd voor ontwikkeling, marketing en community projecten: 170 Miljoen (10%) 
-* Starting diff: 0.00244 
-* Blok beloning: 100 NLG 
-* Blok tijd: 150 seconden 
+Gulden is een vorm van digitaal geld op basis van [[blockchain]]-techniek, vergelijkbaar met [[Bitcoin]].<ref name="dezaak">{{cite web |url=http://www.dezaak.nl/584/guldencoin-mobiel-betalen-met-virtuele-nl-munt.htm |title=Guldencoin: mobiel betalen met virtuele NL-munt |publisher=De Zaak}}</ref> Gulden is net als Bitcoin een [[cryptovaluta]] maar met andere eigenschappen.<ref name="cointelegraph">{{cite web |url=https://cointelegraph.com/news/all-that-glitters-is-gulden-dutch-cryptocurrency-boasts-impressive-adoption |title=All That Glitters Is Gulden: Dutch Cryptocurrency Boasts Impressive Adoption |publisher=The Cointelegraph |language=english}}</ref> Gulden is volledig [[open source]]. Guldens kunnen worden opgeslagen op een dekstop, laptop, tablet of smartphone. Vanuit de digitale portemonnee is het mogelijk om guldens wereldwijd te versturen/ontvangen naar en van iedereen met een Gulden-adres tegen verwaarloosbare kosten. Hierdoor is het een zeer snel betaalsysteem. Uniek is dat Gulden ook direct in euro naar een [[IBAN]]-rekening kan worden overgemaakt.<ref name="">{{cite web |url=http://www.onemorething.nl/2016/06/gulden-als-virtuele-munt-met-app |title=De Gulden is terug als virtuele munt |publisher=One More Thing}}</ref>
 
-==Portemonnee==
-Alle Guldens worden bewaard, uitgegeven en/of ontvangen met behulp van een zogenaamde portemonnee. Dit is uiteraard een digitale portemonnee die op een computer, tablet of een telefoon wordt geïnstalleerd. Via deze portemonneesoftware heeft een gebruiker inzicht in zijn saldo maar kan hij ook snel betalingen uitvoeren. Elke portemonnee heeft één of meerdere adressen die u kunt vergelijken met een (bank)rekeningnummer waarop de Guldens gestort of opgenomen kunnen worden. De vergelijking met een bankrekening nummer gaat maar ten dele op omdat de rekeningnummers ofwel adressen iedere keer als de gebruiker Guldens ontvangt worden gewijzigd in verband met de veiligheid. Dit is een geautomatiseerd proces in de moderne portemonnee software. Bij de eerste generatie portemonnees moest dit ontvangstadres wijzigen handmatig gebeuren. De oude nummers blijven echter wel beschikbaar en bruikbaar maar het wordt aangeraden om iedere keer een nieuw nummer te gebruiken. Een Gulden adres begint met een G gevolgd door 33 cijfers en letters. Voorbeeld: GRoLLoo74B9v7mcT6aDrccu1YK2sevYhoS 
 
-Dit soort adressen is natuurlijk niet te onthouden vandaar dat er vaak met een zogenaamde QR code wordt gewerkt. In de QRcode zit het in ieder geval het adres ingesloten maar kan ook het te betalen bedrag bevatten. De QR code kan met behulp van de mobiele Gulden portemonnee gescand worden. Hierdoor wordt betalen versimpeld.
+== Kenmerken ==
 
-==Blockchain Techniek (versimpeld)==
-Alle transacties die met Guldens worden uitgevoerd worden bijgehouden in een elektronische grootboek (de blockchain). Alle gebruikers van een Gulden portemonnee maken via deze software contact met het Gulden netwerk en vormen op deze manier knooppunten in het netwerk een zogeheten [[peer-to-peer]]-netwerk, zij verwerken de transacties en maken gebruik van cryptografie om de nodige beveiliging te faciliteren. Alle aangesloten computers op dit netwerk hebben een kopie van dit grootboek in zich waardoor het praktisch onmogelijk wordt om frauduleuze handelingen te verrichten met de data in het grootboek omdat de de inhoud van de meerderheid van de grootboeken leidend is. Hierdoor kan iedereen de inhoud van het grootboek vertrouwen en is het niet meer nodig om een derde onafhankelijk partij (lees: de banken) in een transactie te betrekken. Zo kan een eigenaar van Guldens alleen worden uitgegeven door de eigenaar en kunnen ook niet meer dan één keer door dezelfde eigenaar worden uitgegeven. 
-De blockchain technologie van Gulden en het ontbreken van centrale administratie maakt het praktisch onmogelijk voor een overheid, of ieder ander, om de waarde van Gulden te manipuleren of meer [[inflatie]] te induceren dan er van tevoren is vastgelegd. Eerst werd gedacht dat dit ervoor zorgde dat hiermee de eigendom en overdracht van waarde anoniem was. Maar het is inmiddels vastgesteld dat mensen die cryptogeld gebruiken voor criminele activiteiten eenvoudig te traceren zijn. Dat blijkt uit onderzoek door de Universiteit van California te San Diego. Vaak is de identiteit van gebruikers eenvoudig te achterhalen en is geld witwassen met de digitale valuta niet zo eenvoudig als met contant geld zoals Dollars of Euro's mogelijk is. 
+* Startdatum: 4 april 2014 (als Guldencoin<ref name="cryptocoinsnews">{{cite web |url=https://www.cryptocoinsnews.com/guldencoin-gains-widespread-acceptance-netherlands/ |title=Guldencoin Gains Widespread Acceptance In The Netherlands |publisher=cryptocoinsnews |language=english}}</ref><ref name="piratenpartij">{{cite web |url=https://piratenpartij.nl/piratenpartij-accepteert-donaties-in-guldencoin/ Piratenpartij |title=accepteert donaties in Guldencoin |publisher=Piratenpartij}}</ref>, naamswijziging naar Gulden in oktober 2015<ref name="">{{cite web |url=https://www.parool.nl/amsterdam/internet-koopt-zich-wild-aan-de-gulden-van-deze-amsterdammer~a4397778/ Internet koopt zich wild aan de Gulden van deze Amsterdammer |publisher=Het Parool}}</ref>)
+* Afkorting: NLG
+* Kleinste denominatie: deelbaar tot 8 cijfers achter de komma
+* Mining-algoritme: scrypt PoW DELTA
+* Benodigd aantal transactiebevestigingen: 6
+* Totaal aantal uit te geven NLG: 1.680 miljoen
+* Premine gereserveerd voor ontwikkeling-, marketing- en communit projecten: 170 miljoen (10%)
+* Starting diff: 0.00244
+* Blokbeloning: 100 NLG
+* Bloktijd: 150 seconden
 
-== Mijnen ==
-Hoewel Gulden net als ander cryptogeld gemijnd kan worden ligt hier geen nadruk op. Mijnen is het proces waarbij nieuwe Guldens in omloop gebracht worden. Versimpeld kunnen we zeggen dat mijnen als volgt werkt. Het Gulden netwerk geeft elke mijnwerker een cryptografische puzzel op. De mijnwerker die de puzzel als eerste oplost verdient daarmee de zogenaamde blokbeloning van 100 NLG. Gemiddeld wordt er iedere 150 seconde een puzzel opgelost. Als er meer mensen mijnen dreigt de puzzel te snel opgelost te worden. In dat geval zorgt het gulden netwerk ervoor dat de puzzels moeilijker worden ([[dificulty|difficulty]]), net zo moeilijk dat de gemiddelde oplostijd altijd op 150 seconden uitkomt.  
 
-Via mijnen komt er iedere dag 57.600 NLG op de markt bij. Op het moment van schrijven (augustus 2016) is al ongeveer 490 miljoen NLG op de markt. Er zullen maximaal 1680 miljoen NLG gemijnd worden. Dus de laatste Gulden zal ongeveer in het jaar 2072 gemijnd worden. Deze techniek van mijnen zorgen dus voor een vorm van inflatie in het Gulden netwerk. 
+== Portemonnee ==
 
-Mijnwerkers kunnen als individu Guldens mijnen, maar kunnen ook samenwerken in ''mining pools''. Hierbij wordt de rekenkracht van alle computers in de pool gebundeld om de cryptografie van nieuwe guldens op te lossen en transacties te verwerken. 
+Alle Guldens worden bewaard, uitgegeven en/of ontvangen met behulp van een zogenaamde portemonnee. Dit is uiteraard een digitale portemonnee die op een desktop, laptop, tablet of smartphone wordt geïnstalleerd. Via deze portemonneesoftware heeft een gebruiker inzicht in zijn saldo maar kan hij ook snel betalingen uitvoeren. Elke portemonnee heeft één of meerdere adressen die u kunt vergelijken met een (bank)rekeningnummer waarop Guldens gestort of opgenomen kunnen worden.
 
-Op 18 april 2014 werd het [http://cryptocurrency.wikia.com/wiki/Kimoto_Gravity_Well Kimoto's Gravity Well (KGW)] [[algoritme]] geïmplementeerd wat de encryptie en betrouwbaarheid van het Gulden-netwerk heeft versneld en verbeterd, maar de koers van Gulden tevens stabiliseert zonder daarbij grote schokken in de ''difficulty'' voor miners te veroorzaken. Dit bleek echter niet voldoende door opkomst van zogenaamde jump-pools, daarom is in december 2015 het algoritme Scrypt PoW DELTA ontwikkeld hierbij worden de difficulty sprongen nog meer afgedempt waardoor het voor jump-pools onaantrekkelijk werd gemaakt om Guldens te mijnen.
+De vergelijking met een bankrekening nummer gaat maar ten dele op omdat de rekeningnummers ofwel adressen iedere keer als de gebruiker Guldens ontvangt worden gewijzigd in verband met de veiligheid. Dit is een geautomatiseerd proces in de moderne portemonnee software. Bij de eerste generatie portemonnees moest dit ontvangstadres wijzigen handmatig gebeuren. De oude nummers blijven echter wel beschikbaar en bruikbaar maar het wordt aangeraden om iedere keer een nieuw nummer te gebruiken. Een Gulden-adres begint met een G gevolgd door 33 cijfers en letters. Voorbeeld: GRoLLoo74B9v7mcT6aDrccu1YK2sevYhoS
+
+Dit soort adressen is natuurlijk niet te onthouden vandaar dat er vaak met een zogenaamde QR-code wordt gewerkt. In de QR-code zit het in ieder geval het adres ingesloten maar kan ook het te betalen bedrag bevatten. De QR-code kan met behulp van de mobiele Gulden-portemonnee gescand worden. Hierdoor wordt betalen versimpeld.
+
+
+== Blockchain Techniek (vereenvoudigd) ==
+
+Alle transacties die met Guldens worden uitgevoerd worden bijgehouden in een elektronische grootboek (de blockchain). Alle gebruikers van een Gulden-portemonnee maken via deze software contact met het Gulden-netwerk en vormen op deze manier knooppunten in het netwerk een zogeheten [[peer-to-peer]]-netwerk, zij verwerken de transacties en maken gebruik van cryptografie om de nodige beveiliging te faciliteren.
+
+Alle aangesloten computers op dit netwerk hebben een kopie van dit grootboek in zich waardoor het praktisch onmogelijk wordt om frauduleuze handelingen te verrichten met de data in het grootboek omdat de de inhoud van de meerderheid van de grootboeken leidend is. Hierdoor kan iedereen de inhoud van het grootboek vertrouwen en is het niet meer nodig om een derde onafhankelijk partij (lees: de banken) in een transactie te betrekken. Zo kan een eigenaar van Guldens alleen worden uitgegeven door de eigenaar en kunnen ook niet meer dan één keer door dezelfde eigenaar worden uitgegeven.
+
+De blockchain technologie van Gulden en het ontbreken van centrale administratie maakt het praktisch onmogelijk voor een overheid, of ieder ander, om de waarde van Gulden te manipuleren of meer [[inflatie]] te induceren dan er van tevoren is vastgelegd. Eerst werd gedacht dat dit ervoor zorgde dat hiermee de eigendom en overdracht van waarde anoniem was. Maar het is inmiddels vastgesteld dat mensen die cryptogeld gebruiken voor criminele activiteiten eenvoudig te traceren zijn. Dat blijkt uit onderzoek door de Universiteit van California te San Diego. Vaak is de identiteit van gebruikers eenvoudig te achterhalen en is geld witwassen met de digitale valuta niet zo eenvoudig als met contant geld zoals dollars of euro's mogelijk is.
+
+
+== Mining ==
+
+Hoewel Gulden net als ander cryptogeld gemined kan worden ligt hier geen nadruk op. ''Mining'' is het proces waarbij nieuwe Guldens in omloop gebracht worden. Versimpeld kunnen we zeggen dat mining als volgt werkt. Het Gulden-netwerk geeft elke ''miner'' een cryptografische puzzel op. De miner die de puzzel als eerste oplost verdient daarmee de zogenaamde blokbeloning van 100 NLG. Gemiddeld wordt er iedere 150 seconde een puzzel opgelost. Als er meer mensen ''minen'' dreigt de puzzel te snel opgelost te worden. In dat geval zorgt het Gulden-netwerk ervoor dat de puzzels moeilijker worden ([[dificulty|difficulty]]), net zo moeilijk dat de gemiddelde oplostijd altijd op 150 seconden uitkomt.
+
+Via mining komt er iedere dag 57.600 NLG op de markt bij. Op het moment van schrijven (augustus 2016) is al ongeveer 490 miljoen NLG op de markt. Er zullen maximaal 1.680 miljoen NLG gemined worden. Dus de laatste Gulden zal ongeveer in het jaar 2072 gemined worden. Deze techniek van mining zorgen dus voor een vorm van inflatie in het Gulden-netwerk.
+
+Miners kunnen als individu Guldens mining, maar kunnen ook samenwerken in ''mining pools''. Hierbij wordt de rekenkracht van alle computers in de pool gebundeld om de cryptografie van nieuwe Guldens op te lossen en transacties te verwerken.
+
+Op 18 april 2014 werd het [http://cryptocurrency.wikia.com/wiki/Kimoto_Gravity_Well Kimoto's Gravity Well (KGW)] [[algoritme]] geïmplementeerd wat de versleuteling en betrouwbaarheid van het Gulden-netwerk heeft versneld en verbeterd, maar de koers van Gulden tevens stabiliseert zonder daarbij grote schokken in de ''difficulty'' voor miners te veroorzaken. Dit bleek echter niet voldoende door opkomst van zogenaamde jump-pools, daarom is in december 2015 het algoritme Scrypt PoW DELTA ontwikkeld hierbij worden de difficulty sprongen nog meer afgedempt waardoor het voor jump-pools onaantrekkelijk werd gemaakt om Guldens te minen.
+
 
 == Waarde ==
-Net als bij Bitcoin is Gulden tot acht cijfers achter de komma op te delen waarbij de kleinste waarde dus 0,00000001 NLG is. De waarde van Gulden wordt bepaald door vraag en aanbod op exchanges zoals Bittrex. Daarnaast is er [[software]] beschikbaar waarmee een winkelier Gulden kan accepteren in zowel de fysieke als online winkel en in euro’s krijgt uitbetaald. Hierdoor wordt de waarde van Gulden ook beïnvloed door het gebruik van consumenten en acceptatie bij bedrijven. 
+
+Net als bij Bitcoin is Gulden tot acht cijfers achter de komma op te delen waarbij de kleinste waarde dus 0,00000001 NLG is. De waarde van Gulden wordt bepaald door vraag en aanbod op exchanges zoals Bittrex. Daarnaast is er [[software]] beschikbaar waarmee een winkelier Gulden kan accepteren in zowel de fysieke als onlinewinkel en in euro’s krijgt uitbetaald.<ref name=emerce">{{cite web |url=https://www.emerce.nl/wire/betalen-digitale-gulden-rukt-nederland |title=Betalen met digitale Gulden rukt op in Nederland |publisher=Emerce}}</ref><ref name="at5">{{cite web |url=http://www.at5.nl/artikelen/131523/patatje-sat-betalen-met-de-guldencoin |title=Patatje saté betalen met de 'Guldencoin' |publisher=AT5}}</ref><ref name="">{{cite web |url=https://www.sportnext.nl/samenwerking_footgolf_en_gulden_partnership_van_de_toekomst/ |title=Samenwerking FootGolf en digitaal betaalmiddel Gulden; partnership van de toekomst? |publisher=SPORTNEXT}}</ref> Hierdoor wordt de waarde van Gulden ook beïnvloed door het gebruik van consumenten en acceptatie bij bedrijven.<ref name="accountancyvanmorgen">{{cite web |url=http://www.accountancyvanmorgen.nl/2016/08/11/5-vragen-en-antwoorden-fintech-en-accountant/ |title=Artikel over cryptocurrency en Gulden |publisher=AccountancyVanmorgen}}</ref>
+
 
 == Zie ook ==
+
 *[[Alternatieve munteenheid]]
 *[[Cryptogeld]]
 
+
 == Externe links ==
-[https://gulden.com/nl/ Officiële website]
-[http://www.emerce.nl/wire/betalen-digitale-gulden-rukt-nederland Betalen met digitale Gulden rukt op in Nederland | Emerce]
-[http://fd.nl/beurs/1162393/zes-vragen-over-cryptocurrency/ Artikel over cryptocurrency en Gulden | Financieel Dagblad]
-[http://www.onemorething.nl/2016/06/gulden-als-virtuele-munt-met-app De Gulden is terug als virtuele munt | One More Thing] [https://cointelegraph.com/news/all-that-glitters-is-gulden-dutch-cryptocurrency-boasts-impressive-adoption All That Glitters Is Gulden: Dutch Cryptocurrency Boasts Impressive Adoption | The Cointelegraph]
-[http://www.accountancyvanmorgen.nl/2016/08/11/5-vragen-en-antwoorden-fintech-en-accountant/ Artikel over cryptocurrency en Gulden | AccountancyVanmorgen]
-[http://www.at5.nl/artikelen/131523/patatje-sat-betalen-met-de-guldencoin Patatje saté betalen met de 'Guldencoin' | AT5]
-[http://www.dezaak.nl/584/guldencoin-mobiel-betalen-met-virtuele-nl-munt.htm Guldencoin: mobiel betalen met virtuele NL-munt | De Zaak]
-[https://piratenpartij.nl/piratenpartij-accepteert-donaties-in-guldencoin/ Piratenpartij accepteert donaties in Guldencoin | Piratenpartij]
-[https://www.cryptocoinsnews.com/guldencoin-gains-widespread-acceptance-netherlands/ guldencoin-gains-widespread-acceptance-netherlands | cryptocoinsnews]
-* [http://hollandfintech.com/cryptocurrency-gulden-can-now-be-used-for-iban-wire-transfers/ Gulden and IBAN | Holland FINTECH]
-* [https://www.youtube.com/watch?v=gKC2oelL878 Uitleg blockchain | Youtube]
+
+* [https://gulden.com/nl/ Officiële website]
+* {{en}} [https://chainz.cryptoid.info/nlg/ Gulden blokexplorer]
+* {{en}} [https://coinmarketcap.com/currencies/gulden/ Prijs- en marktdata Gulden]
+* [https://www.youtube.com/watch?v=gKC2oelL878 Uitleg over de blokketen]
 
 
+== Referenties ==
 
-
-
-
-
+{{reflist}}
 
